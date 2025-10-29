@@ -1,0 +1,5 @@
+{
+  "name": "AgroX",
+  "description": "AgroX is an AI-powered platform for farmers to analyze crop health, get soil and weather-based recommendations, and receive market guidance. Features include image-based disease detection, harvest suggestions, and a voice assistant for instant support.",
+  "requestFramePermissions": ["geolocation"]
+}

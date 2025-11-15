@@ -1,6 +1,6 @@
 
 // IMPORTANT: This key should be kept secret and ideally stored in an environment variable.
-const VAPI_SERVER_API_KEY = 'f5d50e73-73af-40e8-8a66-3b5663f4486d';
+const VAPI_SERVER_API_KEY = 'api key';
 
 const VAPI_API_URL = 'https://api.vapi.ai/call/phone';
 
@@ -10,8 +10,8 @@ const VAPI_API_URL = 'https://api.vapi.ai/call/phone';
  */
 export const requestCallback = async (phoneNumber: string): Promise<void> => {
   const payload = {
-    assistantId: "b0ee7332-a899-40b7-9812-167d043c2db7",
-    phoneNumberId: "7b666eeb-5855-4553-8c34-5c069afd3d9a",
+    assistantId: "assitant id",
+    phoneNumberId: "phone number id",
     customer: {
       number: phoneNumber,
     },

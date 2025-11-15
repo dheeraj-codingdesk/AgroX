@@ -7,7 +7,7 @@ const firebaseConfig = {
   authDomain: "auth domain",
   databaseURL: "database url",
   projectId: "agrox-aae2a",
-  storageBucket: "agrox-aae2a.firebasestorage.app",
+  storageBucket: 'storagebucket",
   messagingSenderId: "266693709737",
   appId: "appid",
   measurementId: "G-T23JCN5CVE  "

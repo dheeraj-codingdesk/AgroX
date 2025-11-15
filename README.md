@@ -1,6 +1,6 @@
 # AgroX - AI-Powered AgriTech Platform
 
-A modern, responsive website for an AI-powered agricultural technology platform that helps farmers with real-time data, crop diagnostics, weather forecasts, and market insights.
+AI-powered agricultural technology platform that helps farmers with real-time data, crop diagnostics, weather forecasts, and market insights.
 
 # Project Overview: AgroX AI - The Smart Farming Companion
 
@@ -223,5 +223,6 @@ This is a demonstration project built for educational and hackathon purposes.
 ---
 
 **Built with ❤️ for smarter farming**
+
 
 
